@@ -58,7 +58,7 @@ src/
 1. Clone the repository:
 
 ```
-git clone https://github.com/YOUR_USERNAME/movie-explorer.git
+git clone https://github.com/namanjainb3-tech/movie-explorer.git
 ```
 
 2. Navigate to project:
