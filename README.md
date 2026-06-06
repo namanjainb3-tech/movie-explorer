@@ -124,8 +124,6 @@ movie-explorer/
 │   │   ├── Controls.jsx
 │   │   └── Modal.jsx
 │   │
-│   ├── assets/
-│   │
 │   ├── App.jsx
 │   ├── App.css
 │   ├── main.jsx
