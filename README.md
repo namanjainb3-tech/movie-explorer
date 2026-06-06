@@ -137,7 +137,8 @@ movie-explorer/
 │
 ├── demo/
 │   └── movie-explorer-demo.mp4
-│
+|
+├── index.html
 ├── README.md
 ├── package.json
 └── .gitignore
