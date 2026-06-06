@@ -30,9 +30,7 @@ Designed with a focus on performance, user experience, responsive design, and co
 
 ## 🎥 Demo Video
 
-Watch the complete application walkthrough:
-
-[▶️ Movie Explorer Demo](demo/movie-explorer-demo.mp4)
+[Watch Demo Video](https://github.com/namanjainb3-tech/movie-explorer/releases)
 
 ---
 
