@@ -15,16 +15,16 @@ Designed with a focus on performance, user experience, responsive design, and co
 ## 📸 Application Preview
 
 ### Home Page
-![Home Page](screenshots/homepage.png)
+![Home Page](docs/screenshots/home_page.jpeg)
 
 ### Search Functionality
-![Search](screenshots/search.png)
+![Search](docs/screenshots/search.jpeg)
 
 ### Dark Mode
-![Dark Mode](screenshots/darkmode.png)
+![Dark Mode](docs/screenshots/dark_mode.jpeg)
 
 ### Movie Details Modal
-![Movie Details](screenshots/modal.png)
+![Movie Details](docs/screenshots/modal.jpeg)
 
 ---
 
@@ -129,14 +129,15 @@ movie-explorer/
 │   ├── main.jsx
 │   └── index.css
 │
-├── screenshots/
-│   ├── homepage.png
-│   ├── search.png
-│   ├── darkmode.png
-│   └── modal.png
-│
-├── demo/
-│   └── movie-explorer-demo.mp4
+docs/
+│   ├── screenshots/
+│   │   ├── home_page.jpeg
+│   │   ├── search.jpeg
+│   │   ├── dark_mode.jpeg
+│   │   └── modal.jpeg
+│   │
+│   ├── demo/
+|        ├── movie_explorer_demo.mp4
 |
 ├── index.html
 ├── README.md
