@@ -2,10 +2,10 @@ import { useEffect, useState } from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { motion, AnimatePresence } from "framer-motion";
 
-import Navbar from "./Navbar";
-import MovieCard from "./MovieCard";
-import Modal from "./Modal";
-import Controls from "./Controls";
+import Navbar from "./components/Navbar";
+import MovieCard from "./components/MovieCard";
+import Modal from "./components/Modal";
+import Controls from "./components/Controls";
 
 const API_KEY = "0021f4dc834c3afabe00d74fb9e04650";
 
