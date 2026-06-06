@@ -133,9 +133,6 @@ docs/
 │   │   ├── search.jpeg
 │   │   ├── dark_mode.jpeg
 │   │   └── modal.jpeg
-│   │
-│   ├── demo/
-|        ├── movie_explorer_demo.mp4
 |
 ├── index.html
 ├── README.md
