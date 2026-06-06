@@ -8,7 +8,7 @@ Designed with a focus on performance, user experience, responsive design, and co
 
 ## 🚀 Live Demo
 
-🔗 https://movie-explorer-pink-seven.vercel.app/
+🔗 https://movie-explorer-cyan-beta.vercel.app/
 
 ---
 
